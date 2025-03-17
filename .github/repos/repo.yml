@@ -1,7 +1,7 @@
 # This settings file can be used to create repo-level settings
 
 repository:
-  name: devopscaptain12345
+  name: devopscaptain1
   organization: devopscaptain
   # Create the repo if doesn't exist
   force_create: true
