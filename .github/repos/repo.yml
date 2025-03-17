@@ -2,6 +2,7 @@
 
 repository:
   name: devopscaptain12345
+  organization: devopscaptain
   # Create the repo if doesn't exist
   force_create: true
 
